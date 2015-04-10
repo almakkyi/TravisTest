@@ -1,5 +1,5 @@
 main: main.cpp
-	g++ main.cpp -o main.out
+	gcc main.cpp -o main.out -lstdc++
 
 test:
 
